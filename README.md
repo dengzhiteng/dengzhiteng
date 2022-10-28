@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[掘金](http:www.baidu.com)
+[掘金](https://juejin.cn/user/3403743731393742/posts)
 
-[!关注我]()
+关注我
 <img src="./weixin.jpg"/>
 
 
