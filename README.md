@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 [掘金](http:www.baidu.com)
 
 [!关注我]()
-<img src=""/>
+<img src="./weixin.jpg"/>
 
 
