@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 [掘金](https://juejin.cn/user/3403743731393742/posts)
 
-关注我
+关注我微信公众号
+<br/>
+
 <img src="./weixin.jpg"/>
 
 
